@@ -11,9 +11,11 @@ Deseja testar? Clique aqui: https://brafoods.vercel.app/
 ### 🏁 Features
 
 - [x] Cadastro de cliente
-- [x] Atualização de estoque de produtos
+- [x] Cliente selecionar os produtos para a compra
+- [x] Finalização da compra
 - [x] Atualização no saldo do cliente
 - [x] Efetuar compra
+- [ ] Tela de administração para atualização do estoque
 
 ### 🛠 Tecnologias
 
@@ -24,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Context-api
 - Material-ui
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando a aplicação web
 
 ```bash
 
@@ -40,7 +42,6 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
 
