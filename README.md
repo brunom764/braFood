@@ -19,7 +19,7 @@ Deseja testar? Clique aqui: https://brafoods.vercel.app/
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React]
-- [Styled-compoments]
-- [Context-api]
-- [Material-ui]
+- React
+- Styled-compoments
+- Context-api
+- Material-ui
