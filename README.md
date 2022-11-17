@@ -32,10 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 $ git clone https://github.com/brunom764/braFood.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
-
-# Vá para a pasta da aplicação Front End
-$ cd web
+$ cd README-brafood
 
 # Instale as dependências
 $ npm install
