@@ -8,7 +8,7 @@ Deseja testar? Clique aqui: https://brafoods.vercel.app/
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-### Features
+### 🏁 Features
 
 - [x] Cadastro de cliente
 - [x] Atualização de estoque de produtos
@@ -23,3 +23,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Styled-compoments
 - Context-api
 - Material-ui
+
+#### 🧭 Rodando a aplicação web (Frontend)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/brunom764/braFood.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd README-ecoleta
+
+# Vá para a pasta da aplicação Front End
+$ cd web
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+
+---
