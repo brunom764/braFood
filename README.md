@@ -12,6 +12,7 @@ Deseja testar? Clique aqui: https://brafoods.vercel.app/
 
 - [x] Cadastro de cliente
 - [x] Cliente selecionar os produtos para a compra
+- [x] Cliente modificar a quantidade do produto comprado
 - [x] Finalização da compra
 - [x] Atualização no saldo do cliente
 - [x] Efetuar compra
