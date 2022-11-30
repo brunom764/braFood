@@ -38,10 +38,10 @@ $ git clone https://github.com/brunom764/braFood.git
 $ cd README-brafood
 
 # Instale as dependências
-$ npm install
+$ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ yarn expo start --web
 
 
 ```
