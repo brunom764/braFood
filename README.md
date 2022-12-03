@@ -17,6 +17,7 @@ Deseja testar? Clique aqui: https://brafoods.vercel.app/
 - [x] Atualização no saldo do cliente
 - [x] Efetuar compra
 - [ ] Tela de administração para atualização do estoque
+- [ ] Ajustes de bugs na efetuação da compra
 
 ### 🛠 Tecnologias
 
